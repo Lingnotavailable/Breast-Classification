@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # pytorch-classification
 This code origianlly from https://github.com/bearpaw/pytorch-classification.git, which is Classification model on CIFAR-10/100 and ImageNet with PyTorch. Currently have been modified with breast classification trainning and validation. (More detial use check DBT_doc.md)
 
@@ -57,6 +56,3 @@ Since the size of images in CIFAR dataset is `32x32`, popular network structures
 
 ## Contribute
 Feel free to create a pull request if you find any bugs or you want to contribute (e.g., more datasets and more network structures).
-=======
-# Breast-Classification
->>>>>>> a9eab2ec78076a306dc10e8f89127ef3b7caf1a2
